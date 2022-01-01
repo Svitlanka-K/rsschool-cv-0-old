@@ -14,6 +14,7 @@ Dnipro National University of Railway Transport named after academician V. Lazar
 - SolidWorks
 - AutoСAD
 - Adobe Photoshop
+- Microsoft Office
 ## Code example
     <!DOCTYPE html>
     <html lang="ru">
