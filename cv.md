@@ -1,12 +1,12 @@
 # Kondratiuk Svitlana 
-![the photo](https://avatars.githubusercontent.com/u/93516763?v=4)
+![the photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBd7TRg30wXGHS-HGdppp1m3uTHACAVxb3PA&usqp=CAU)
 ## Contacts
 - GitHub: Svitlanka-K
 - E-mail: <Svitlanka.K@i.ua>
 ## About me
 I am currently working as a design engineer, but I want to change my profession, so I came to study JavaScript / Front-end at RS School courses.
 ## Education
-Dnipro National University of Railway Transport named after academician V. Lazaryan (DIIT)
+Dnipro National University of Railway Transport
 ## Skills
 - HTML (basic)
 - CSS (basic)
