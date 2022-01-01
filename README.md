@@ -1,2 +1,2 @@
-#rsschool-cv1
+#rsschool-cv
 https://Svitlanka-K.github.io/rsschool-cv/
